@@ -1,2 +1,2 @@
-# Invisibility-Cloak-in-OpenCV
+# Invisibility-Cloak-in-OpenCV-Python
 Invisibility Cloak made in Python. 
